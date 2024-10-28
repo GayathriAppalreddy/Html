@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>
+</title>
+<style>
+#topics
+{position:relative;
+top:10px;
+left:250px;
+float:left;
+float-size:2px;
+text-decoration:None;
+margin:10px;
+}
+#img{position:relative;
+top:45px;
+left:30px;
+}
+#text{
+position:absolute;
+top:60px;
+left:55px;
+color:blue;
+}
+#bu{position:absolute;
+background:red;
+color:white;
+left:100px;
+top:200px;
+}
+</style>
+</head>
+<body>
+<h4 style="float:left">BUSON<span style="color:red">.</h4>
+<div id="topics"><small>
+<a href="">HOME</a>
+<a href="">ABOUT</a>
+<a href="">SERVICES</a>
+<a href="">CASES</a>
+<a href="">BIOTS</a>
+<a href="">PAGES</a></small>
+</div>
+<div id="img">
+<img src="https://media.istockphoto.com/id/1162354887/photo/businesspeople-handshaking-after-deal-or-interview.jpg?s=612x612&w=0&k=20&c=G4dic7x9xgmnDLB5HwZ-R9ZQOfbQ_hqyIyaHtl23K7M=" width="250px" height="250px">
+<div id="text"><small style="color:red;"><small><small>WELCOME TO BUSON</small></small></small><br>
+WE HELP YOU <br>
+TO GROW YOUR <br>
+BUSINESS<br>
+</div></div>
+<div id="bu">
+<button style="background:red;color:white;">Learn More</button>
+</div>
+</body>
+</html>
