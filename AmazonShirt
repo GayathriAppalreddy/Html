@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>
+</title>
+<style>
+#img1{
+border:3px solid white;
+margin:10px;
+float:left;
+width:150px;
+height:270px;
+}
+#img2{
+border:3px solid white;
+margin:10px;
+float:left;
+width:150px;
+height:270px;
+}
+#img3{
+border:3px solid white;
+margin:10px;
+float:left;
+width:150px;
+height:270px;
+}
+#img4{
+border:3px solid black;
+margin:10px;
+float:left;
+width:150px;
+height:270px;
+}
+#img5{
+border:3px solid black;
+margin:10px;
+float:left;
+width:150px;
+height:270px;
+}
+#img6{
+border:3px solid black;
+margin:10px;
+float:left;
+width:150px;
+height:270px;
+}
+</style>
+</head>
+<body>
+<div id="img1">
+<img src="https://m.media-amazon.com/images/I/41ZlaXWAWiL.jpg" width="150px" height="200px">
+Vikitha Enterprise<br>400/-<br>Amazon .in
+</div>
+<div id="img2">
+<img src="https://m.media-amazon.com/images/I/51zAw1g1p9L._SY879_.jpg" width="150px" height="200px">
+Vikitha Enterprise<br>400/-<br>Amazon .in
+</div>
+<div id="img3">
+<img src="https://m.media-amazon.com/images/I/71XRCKGAvSL._SX679_.jpg" width="150px" height="200px">
+Vikitha Enterprise<br>400/-<br>Amazon .in
+</div>
+<div id="img4">
+<img src="https://m.media-amazon.com/images/I/81GN4fxE1dL._SY879_.jpg" width="150px" height="200px">
+Vikitha Enterprise<br>400/-<br>Amazon .in
+</div>
+<div id="img5">
+<img src="https://m.media-amazon.com/images/I/51zC62rewAL._SY879_.jpg" width="150px" height="200px">
+Vikitha Enterprise<br>400/-<br>Amazon .in
+</div>
+<div id="img6">
+<img src="https://m.media-amazon.com/images/I/41X-lwMk6PL.jpg" width="150px" height="200px">
+Vikitha Enterprise<br>400/-<br>Amazon .in
+</div>
+</body>
+</html>
